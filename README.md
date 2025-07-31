@@ -31,5 +31,7 @@ A modern, browser-based recreation of the classic **Asteroids** arcade game. Bui
 
    ```bash
    git clone https://github.com/MattMuller88/Asteroids-Game-JavaScript.git
-   cd Asteroids Game JavaScript
-   
+   cd Asteroids-Game-JavaScript/Asteroids-Game-JavaScript
+   start asteroids.html (Windows)
+   open asteroids.html (Mac)
+   xdg-open asteroids.html (Linux)
