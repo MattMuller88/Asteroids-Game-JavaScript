@@ -2,8 +2,6 @@
 
 A modern, browser-based recreation of the classic **Asteroids** arcade game. Built from scratch with **vanilla JavaScript** and rendered using the HTML5 `<canvas>` element. Featuring retro aesthetics, custom sound effects, and smooth gameplay mechanics.
 
-![Asteroids Screenshot](screenshot.png) <!-- Optional: Add a screenshot image to your repo -->
-
 ---
 
 ## 🚀 Features
